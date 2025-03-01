@@ -1,0 +1,14 @@
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/bin/Debug/net7.0/Fibonacci
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/bin/Debug/net7.0/Fibonacci.deps.json
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/bin/Debug/net7.0/Fibonacci.runtimeconfig.json
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/bin/Debug/net7.0/Fibonacci.dll
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/bin/Debug/net7.0/Fibonacci.pdb
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/obj/Debug/net7.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/obj/Debug/net7.0/Fibonacci.AssemblyInfoInputs.cache
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/obj/Debug/net7.0/Fibonacci.AssemblyInfo.cs
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/obj/Debug/net7.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/obj/Debug/net7.0/Fibonacci.dll
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/obj/Debug/net7.0/refint/Fibonacci.dll
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/obj/Debug/net7.0/Fibonacci.pdb
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/obj/Debug/net7.0/Fibonacci.genruntimeconfig.cache
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/obj/Debug/net7.0/ref/Fibonacci.dll
