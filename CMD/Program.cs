@@ -6,11 +6,11 @@ public class Program
     {
         while (true)
         {
-            Console.writeLine("Ingrese un numero");
-            int num = Convert.ToInt32(Console.ReadLine);
-            Console.writeLine("Ingrese otro numrro");
-            int num2 = Convert.ToInt32(Console.ReadLine);
-            Console.writeLine("El MCD de los numeros es " + Convert.ToInt32(MCD(num, num2)));
+            Console.WriteLine("Ingrese un numero");
+            int num = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Ingrese otro numrro");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("El MCD de los numeros es " + (MCD(num, num2)).ToString());
             if (num == 00 || num2 == 00)
             {
                 break;
@@ -18,7 +18,7 @@ public class Program
         }
     }
     
-    public int MCD (int num, int num2)
+    public static int MCD (int num, int num2)
     {
         while (num2 != 0)
         {

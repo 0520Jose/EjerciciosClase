@@ -2,3 +2,13 @@
 /home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/obj/Debug/net7.0/CMD.AssemblyInfoInputs.cache
 /home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/obj/Debug/net7.0/CMD.AssemblyInfo.cs
 /home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/obj/Debug/net7.0/CMD.csproj.CoreCompileInputs.cache
+/home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/bin/Debug/net7.0/CMD
+/home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/bin/Debug/net7.0/CMD.deps.json
+/home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/bin/Debug/net7.0/CMD.runtimeconfig.json
+/home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/bin/Debug/net7.0/CMD.dll
+/home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/bin/Debug/net7.0/CMD.pdb
+/home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/obj/Debug/net7.0/CMD.dll
+/home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/obj/Debug/net7.0/refint/CMD.dll
+/home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/obj/Debug/net7.0/CMD.pdb
+/home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/obj/Debug/net7.0/CMD.genruntimeconfig.cache
+/home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/obj/Debug/net7.0/ref/CMD.dll
