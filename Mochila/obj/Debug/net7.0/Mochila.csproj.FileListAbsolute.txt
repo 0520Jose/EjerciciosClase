@@ -1,0 +1,14 @@
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Mochila/bin/Debug/net7.0/Mochila
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Mochila/bin/Debug/net7.0/Mochila.deps.json
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Mochila/bin/Debug/net7.0/Mochila.runtimeconfig.json
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Mochila/bin/Debug/net7.0/Mochila.dll
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Mochila/bin/Debug/net7.0/Mochila.pdb
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Mochila/obj/Debug/net7.0/Mochila.GeneratedMSBuildEditorConfig.editorconfig
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Mochila/obj/Debug/net7.0/Mochila.AssemblyInfoInputs.cache
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Mochila/obj/Debug/net7.0/Mochila.AssemblyInfo.cs
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Mochila/obj/Debug/net7.0/Mochila.csproj.CoreCompileInputs.cache
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Mochila/obj/Debug/net7.0/Mochila.dll
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Mochila/obj/Debug/net7.0/refint/Mochila.dll
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Mochila/obj/Debug/net7.0/Mochila.pdb
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Mochila/obj/Debug/net7.0/Mochila.genruntimeconfig.cache
+/home/emanuel/Escritorio/EDD/EjerciciosClase/Mochila/obj/Debug/net7.0/ref/Mochila.dll

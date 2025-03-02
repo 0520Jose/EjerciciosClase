@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Fibonacci
-build_property.ProjectDir = /home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/
+build_property.RootNamespace = CMD
+build_property.ProjectDir = /home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/

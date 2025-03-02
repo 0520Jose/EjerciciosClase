@@ -1,0 +1,4 @@
+/home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/obj/Debug/net7.0/CMD.GeneratedMSBuildEditorConfig.editorconfig
+/home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/obj/Debug/net7.0/CMD.AssemblyInfoInputs.cache
+/home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/obj/Debug/net7.0/CMD.AssemblyInfo.cs
+/home/emanuel/Escritorio/EDD/EjerciciosClase/CMD/obj/Debug/net7.0/CMD.csproj.CoreCompileInputs.cache
