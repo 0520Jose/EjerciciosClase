@@ -1,0 +1,5 @@
+/workspaces/EjerciciosClase/CMD/obj/Debug/net8.0/CMD.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/EjerciciosClase/CMD/obj/Debug/net8.0/CMD.AssemblyInfoInputs.cache
+/workspaces/EjerciciosClase/CMD/obj/Debug/net8.0/CMD.AssemblyInfo.cs
+/workspaces/EjerciciosClase/CMD/obj/Debug/net8.0/CMD.csproj.CoreCompileInputs.cache
+/workspaces/EjerciciosClase/CMD/obj/Debug/net8.0/CMD.sourcelink.json

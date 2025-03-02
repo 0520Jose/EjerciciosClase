@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "n6Qd62x0Xq36NX/5d/tFaHkJCvJTchCsRDoXOYzcU9T3DzAPvAui8XA7rMyUDOhX0EtfQfTn2IO9Mc7AtsJyOA==",
+  "dgSpecHash": "tlfDTeTUqqw=",
   "success": true,
-  "projectFilePath": "/home/emanuel/Escritorio/EDD/EjerciciosClase/Fibonacci/Fibonacci.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/EjerciciosClase/Fibonacci/Fibonacci.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -14,13 +14,8 @@ public class Program
             {
                 Console.WriteLine("- Ingresa hasta que termino de la serie de FibonacciMemorizado quiere calcular: ");
                 int n = Convert.ToInt32(Console.ReadLine());
-                int[] memoria = new int[n + 1];
-                for (int i = 0; i < n + 1; i++)
-                {
-                    memoria[i] = -1;
-                }
                 Console.WriteLine("El termino " + n.ToString() + " en FibonacciMemorizado es: ");
-                Console.WriteLine(FibonacciMemorizado(n-1, memoria));
+                Console.WriteLine(FibonacciMemorizado(n-1));
                 if (n == 0)
                 {
                     break;
@@ -59,16 +54,21 @@ public class Program
         return FibonacciRecursivo(n - 1) + FibonacciRecursivo(n - 2);
     }
 
-    public static int FibonacciMemorizado(int n, int[] memoria)
+    public static int FibonacciMemorizado(int n, Dictionary<int, int> memoria = null)
     {
-        if (memoria[n] != -1)
+        if (memoria == null)
+        {
+            memoria = new Dictionary<int, int>();
+        }
+
+        if (memoria.ContainsKey(n))
         {
             return memoria[n];
         }
+
         if (n <= 1)
         {
             memoria[n] = n;
-            return memoria[n];
         }
         else
         {
